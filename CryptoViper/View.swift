@@ -69,7 +69,7 @@ class DetailsViewController : UIViewController {
     }
 }
 
-class CryptoViewController : UIViewController,AnyView,UITableViewDelegate,UITableViewDataSource {
+    class CryptoViewController : UIViewController,AnyView,UITableViewDelegate,UITableViewDataSource {
    
     var presenter: AnyPresenter?
     
